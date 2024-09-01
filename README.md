@@ -28,3 +28,13 @@ Variable Name	Description
     - This gave a good baseline for all of the numeric and categorical columns for univariate.
 
     - Aheat map was visualized for numeric datatype columns, this gave a good view for the whole numerical relations between numeric features.
+
+
+### Key Points
+ - The project's primary objective is to predict food item sales to assist retailers in enhancing their sales strategies.
+ - The dataset consists of 8,523 rows and 12 columns, providing a substantial amount of data for analysis.
+ - Data cleaning involves exploring the dataset to address issues such as missing values, duplicates, and inconsistent categories.
+ - Missing values in the dataset are identified in 'Item_Weight' and 'Outlet_Size' and are replaced with placeholder values.
+ - There are no duplicate entries in the dataset, simplifying the data-cleaning process.
+ - Inconsistent categories, particularly in 'Item_Fat_Content,' are corrected to ensure uniformity.
+ - Summary statistics for numerical columns, such as minimum, maximum, and mean, are generated to provide insights for further analysis.
